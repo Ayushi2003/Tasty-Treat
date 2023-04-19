@@ -3,17 +3,11 @@
 ### Features:
 
 ---
+The Tasty Treat project is a food ordering system that features an "Add to Cart" functionality that allows users to add their desired food items to a cart. The project also includes a Shopping Cart functionality that keeps track of the items added to the cart, a Product Filtering functionality that helps users search for specific food items, and a Product Page that displays the details of each food item.
 
-##### Here's features included in this project
+Moreover, the project includes a Cart and Checkout page that guides users through the checkout process, and a Contact page that allows users to get in touch with the website administrators. The project also features a Login and Register page that allows users to create an account, sign in, and manage their order history.
 
-- Add to cart functionality
-- Shopping cart functionality
-- Product Filtering functionality
-- Product page
-- Cart and checkout page
-- Contact page
-- Login and Register page
-- Awesome modern minimalist UI
+Finally, the Tasty Treat project boasts an Awesome modern minimalist UI that makes the ordering process seamless and enjoyable for users.
 
 ### Technologies Used:
 
